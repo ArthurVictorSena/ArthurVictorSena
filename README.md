@@ -1,12 +1,15 @@
-## 👨🏽‍💻 Arthur Victor Sena 
+# 👨🏽‍💻 Arthur Victor Sena 
 
-### `Desenvolvedor Back-end`
+**`Desenvolvedor Back-end`**
 
-## Olá, seja bem-vindo ao meu perfil! 👋
+### Olá, seja bem-vindo ao meu perfil! 👋
 
-## Me chamo Arthur Victor, tenho 18 anos e sou de Belo Horizonte (MG). Sou estudante de Engenharia de Software na UNA-BH e formado técnico em TI pelo Senac Minas.
+### Me chamo Arthur Victor, tenho 18 anos e sou de Belo Horizonte (MG). Sou estudante de Engenharia de Software na UNA-BH e formado técnico em TI pelo Senac Minas.
 
-## Fanático por tecnologia, utilizo este GitHub para compartilhar meus projetos e minha evolução como desenvolvedor. 🚀
+### Fanático por tecnologia, utilizo este GitHub para compartilhar meus projetos e minha evolução como desenvolvedor. 🚀
+
+
+
 
 ---
 
@@ -75,7 +78,7 @@
 <br/>
 <br/>
 
-# 📫 Contato
+## 📫 Contato
 
-## 📧 Email: arthurvictorsenarafael@gmail.com  
-## 💼 LinkedIn: https://www.linkedin.com/in/arthurvictorsena
+📧 Email: arthurvictorsenarafael@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/arthurvictorsena
